@@ -56,5 +56,6 @@ Después de terminar con el análisis se recomiendan las siguientes estrategias:
 1.   Mejorar los contratos anuales con beneficios y descuentos.
 2.   Implementar promociones de paquetes de internet con el servicio DSL.
 3.   Implementar ideas para retener a los clientes vigentes con tiempo de contrato menor a 12 meses.
-4.   Eliminar el uso de cheques electrónicos e implementar el uso de pagos por transferencia y con crédito.
+4.   Eliminar el uso de cheques electrónicos e incentivar el uso de pagos por transferencia y con crédito.
 5.   Agregar programas de fidelización para clientes con antigüedad.
+
